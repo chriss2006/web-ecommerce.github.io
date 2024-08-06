@@ -1,0 +1,83 @@
+.body{
+  margin: 0;
+  padding: 0;
+  background-image: url(http://127.0.0.1:5501/imagenes/img%20carrusel.jpg);
+  background-size: cover;
+}
+/*formulario*/
+.contact-card {
+  max-width: 400px; 
+  margin: 40px auto; 
+  padding: 30px; 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+  background-color: #fff; 
+  border-radius: 10px; 
+}
+
+
+.contact-card ul {
+  list-style: none; 
+  padding: 0; 
+  margin: 0; 
+}
+
+.contact-card li {
+  margin-bottom: 20px; 
+}
+
+.contact-card i {
+  font-size: 24px; 
+  margin-right: 10px; 
+}
+
+.contact-card span {
+  font-size: 18px; 
+}
+
+
+.contact-card form {
+  margin-top: 30px; 
+}
+
+.contact-card input, .contact-card textarea {
+  width: 100%; 
+  padding: 10px;
+  margin-bottom: 20px; 
+  border: 1px solid #ccc; 
+  border-radius: 5px; 
+}
+
+.contact-card button {
+  background-color: #4CAF50; 
+  color: #fff; 
+  padding: 10px 20px; 
+  border: none; 
+  border-radius: 5px; 
+  cursor: pointer; 
+}
+
+
+@media (max-width: 768px) {
+  .contact-card {
+    max-width: 300px; 
+  }
+}
+
+@media (max-width: 480px) {
+  .contact-card {
+    max-width: 200px; 
+  }
+}
+/*flecha⬅*/
+.regresar{
+  margin-top: 0;
+  text-align: left;
+}
+.regresar a {
+  text-decoration: none;
+  color: #333;
+}
+
+.regresar a:hover {
+  color: #666;
+}
