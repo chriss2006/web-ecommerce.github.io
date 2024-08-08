@@ -1,8 +1,10 @@
 .body{
   margin: 0;
   padding: 0;
-  background-image: url(http://127.0.0.1:5501/imagenes/img%20carrusel.jpg);
+  background-image: url('../imagenes/img\ carrusel\ 2.webp');
   background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
 }
 /*formulario*/
 .contact-card {
