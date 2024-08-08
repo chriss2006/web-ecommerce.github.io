@@ -1,4 +1,4 @@
-# Letterapp
+# CJ PUZZLE
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/chriss2006/web-ecommerce.github.io)
 ![GitHub issues](https://img.shields.io/github/issues/chriss2006/web-ecommerce.github.io)
